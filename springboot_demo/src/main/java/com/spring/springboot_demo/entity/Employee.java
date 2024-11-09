@@ -19,5 +19,5 @@ private String empName;
 private String empEmail;
 private String empPassword;
 private String empPhoneNo;
-
+private int num;
 }
